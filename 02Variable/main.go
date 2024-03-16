@@ -28,7 +28,8 @@ func main() {
 	fmt.Println(number3)
 
 	/*
-
+      Note := is walrus operator and it is used only inside function not
+	  outside the function and also not declear global...
 	 */
 
 }
